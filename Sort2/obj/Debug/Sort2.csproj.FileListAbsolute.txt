@@ -1,0 +1,14 @@
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\bin\Debug\Sort2.exe.config
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\bin\Debug\Sort2.exe
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\bin\Debug\Sort2.pdb
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\obj\Debug\Sort2.csprojAssemblyReference.cache
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\obj\Debug\Sort2.csproj.CoreCompileInputs.cache
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\obj\Debug\Sort2.exe
+C:\Users\XJIE6yIIIEK\source\repos\Sort2\Sort2\obj\Debug\Sort2.pdb
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\bin\Debug\Sort2.exe.config
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\bin\Debug\Sort2.exe
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\bin\Debug\Sort2.pdb
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\obj\Debug\Sort2.csprojAssemblyReference.cache
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\obj\Debug\Sort2.csproj.CoreCompileInputs.cache
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\obj\Debug\Sort2.exe
+C:\Users\permy\Desktop\Задания2\Sort2(12)\Sort2\obj\Debug\Sort2.pdb
